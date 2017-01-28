@@ -1,6 +1,9 @@
-frontend-nanodegree-arcade-game
-===============================
+#Udacity Archade Game
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+##Part 1: Using HTML5 canvas and Javascript, create game
+http://nichond.com/udacity/project3/
 
-for self-checking their submission.
+### Part 1: Figure out functions to get game to work
+
+### Part 2: Customize images to create new game
+* Created and edited existing image assets using Adobe Photoshop
