@@ -1,0 +1,20 @@
+body {
+	text-align: center;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 0.75em;
+	color: #fff;
+	background-color: #57b5f7;
+}
+h1 {
+	line-height: 90%;
+	font-weight: normal;
+}
+main {
+	margin: 10px auto;
+	text-align: left;
+	max-width: 465px;
+	padding: 20px;
+}
+canvas {
+	margin-top: -60px;
+}
